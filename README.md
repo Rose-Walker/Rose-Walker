@@ -3,7 +3,7 @@
 🎮🐱🐶💻💊
 
 ### About Me
-I'm a pharmaceutical professional transitioning into software development! With a Bachelor's in Pharmacy and a few years in the pharma industry, I’ve developed a strong analytical mindset that I’m now applying to the world of coding. Currently, I'm pursuing a Diploma in Software Development to turn my passion for technology into a career.
+I'm a pharmaceutical professional transitioning into software development! With a Bachelor's in Bioscience with Biopharmaceuticals and a few years in the pharmaceutical industry, I’ve developed a strong analytical mindset that I’m now applying to the world of coding. Currently, I'm pursuing a Diploma in Software Development to turn my passion for technology into a career.
 
 ### 🌱 I’m currently learning
 - Java
