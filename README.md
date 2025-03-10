@@ -13,7 +13,7 @@ I'm a pharmaceutical professional transitioning into software development! With 
 - MySQL
 - Angular
 
-## How to reach me
+## 📫 How to reach me
 If you ever want to get in touch and chat, you can contact me via email at G00438842@atu.ie
 
 <!--
